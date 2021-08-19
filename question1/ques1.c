@@ -1,5 +1,4 @@
-/*Write a character driver wiwq
-th open, read, write and close functionalities. Test the driver through a user application by reading data from the driver and writing data to the driver*/
+
 #include<linux/init.h>
 #include<linux/module.h>
 #include<linux/kdev_t.h>
